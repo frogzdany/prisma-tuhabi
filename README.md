@@ -1,6 +1,32 @@
-# Prisma
+<p align="center">
+  <img src="deck/assets/brand/logo-small.png" width="128" alt="Prisma logo" />
+</p>
 
-WhatsApp triage demo for Tuhabi. Routes a property seller to iBuyer, Pulppo, or nurture in about 30 seconds based on the first message they send, then sends back the recommended route and a fee breakdown as a voice note.
+<h1 align="center">Prisma</h1>
+
+<p align="center">
+  WhatsApp triage demo for Tuhabi. Routes a property seller to iBuyer, Pulppo, or nurture in about 30 seconds based on the first message they send, then sends back the recommended route and a fee breakdown as a voice note.
+</p>
+
+<p align="center">
+  <a href="https://prisma-tuhabi.vercel.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fprisma-tuhabi.vercel.app&up_message=live&down_message=down&label=demo&style=flat-square" alt="Live demo"></a>
+  <img src="https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs&logoColor=white&style=flat-square" alt="Next.js 16">
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React 19">
+  <br />
+  <img src="https://img.shields.io/badge/Anthropic-Claude_Haiku-D97757?logo=anthropic&logoColor=white&style=flat-square" alt="Anthropic Claude Haiku">
+  <img src="https://img.shields.io/badge/ElevenLabs-multilingual_v2-000?logo=elevenlabs&logoColor=white&style=flat-square" alt="ElevenLabs">
+  <img src="https://img.shields.io/badge/Supabase-storage_%26_db-3FCF8E?logo=supabase&logoColor=white&style=flat-square" alt="Supabase">
+  <img src="https://img.shields.io/badge/Chakra_UI-v3-319795?logo=chakraui&logoColor=white&style=flat-square" alt="Chakra UI v3">
+  <br />
+  <a href="https://github.com/frogzdany/prisma-tuhabi/commits/main"><img src="https://img.shields.io/github/last-commit/frogzdany/prisma-tuhabi?style=flat-square&color=8B5CF6" alt="Last commit"></a>
+  <a href="https://github.com/frogzdany/prisma-tuhabi"><img src="https://img.shields.io/github/repo-size/frogzdany/prisma-tuhabi?style=flat-square&color=8B5CF6" alt="Repo size"></a>
+  <img src="https://img.shields.io/badge/license-private-lightgrey?style=flat-square" alt="License: private">
+</p>
+
+<p align="center">
+  <a href="https://prisma-tuhabi.vercel.app"><strong>Open the live demo</strong></a>
+</p>
 
 ## How it looks
 
@@ -59,7 +85,13 @@ ANTHROPIC_MODEL_TRIAGE                  Overrides the default model.
 
 The triage endpoint also accepts `?mock=1` to return a canned decision without calling Anthropic or ElevenLabs. Useful as a backup demo path or for testing without burning credits.
 
-## Deploy on Vercel
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/vercel.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/vercel.svg?color=%23000000" height="22" alt="Vercel" /></picture> Deploy on Vercel
+
+Currently deployed at **<https://prisma-tuhabi.vercel.app>**.
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ffrogzdany%2Fprisma-tuhabi&project-name=prisma-tuhabi&env=ANTHROPIC_API_KEY,ELEVENLABS_API_KEY,ELEVENLABS_VOICE_ID_MX,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY,SUPABASE_SECRET_KEY)
+
+Manual setup:
 
 1. Push this repo to GitHub.
 2. In Vercel, import the repo. Root Directory is `/` (the app is at the repo root).
