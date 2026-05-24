@@ -1,0 +1,14 @@
+{
+  "name": "prisma-deck",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Marp deck for the Prisma triage agent. GTM Hackathon CDMX 2026.",
+  "scripts": {
+    "dev": "marp -w slides.md --theme themes/prisma.css --allow-local-files",
+    "html": "marp slides.md --theme themes/prisma.css --allow-local-files -o presentation.html",
+    "pdf": "marp slides.md --theme themes/prisma.css --allow-local-files -o presentation.pdf",
+    "pptx": "marp slides.md --theme themes/prisma.css --allow-local-files -o presentation.pptx",
+    "charts": "python3 charts/render_charts.py",
+    "build": "npm run charts && npm run pdf && npm run html"
+  }
+}

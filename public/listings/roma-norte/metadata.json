@@ -1,0 +1,17 @@
+{
+  "fixtureId": "roma-norte",
+  "label": "Roma Norte (CDMX) · departamento 75m² · iBuyer",
+  "generatedAt": "2026-05-23T21:12:09.589Z",
+  "imagen": {
+    "model": "imagen-4.0-generate-001",
+    "prompt": "Editorial real-estate photograph of the interior of a modern departamento in Roma Norte, Mexico City. Two bedrooms, 75 square meters, mid-century furniture, polished concrete floors, large windows letting in soft afternoon light from a tree-lined Mexico City street, art-deco architectural details visible, neutral palette with warm accents. Clean composition, professional listing photography, no people. 16:9 aspect ratio."
+  },
+  "veo": {
+    "model": "veo-3.0-fast-generate-001",
+    "durationSeconds": 4,
+    "prompt": "Slow cinematic dolly forward through a sunlit Mexico City apartment living room toward the windows. The camera glides smoothly from the entry hallway into the open living area. Late afternoon golden light pours in through tall French windows overlooking a tree-lined street. Soft natural ambience, warm color grading, gentle motion of sheer curtains, no people. Editorial real-estate tour aesthetic."
+  },
+  "timing": {
+    "veoS": 32.5
+  }
+}

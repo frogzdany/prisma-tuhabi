@@ -1,0 +1,47 @@
+DISCOVERY CALL — MEDINA CLINICS × AFTERCALL
+Date: 2026-05-20 · 9:00 AM ET · 27 min
+Participants:
+  - Dr. Lucía Medina — Founder & CEO, Medina Clinics (12-clinic dental group, Mexico)
+  - Roberto Cano (mentioned) — CFO, Medina Clinics
+  - Daniel Reyes — Account Executive, Aftercall
+
+[00:00] Lucía: Daniel, gracias por el tiempo. We're a smaller fish than your usual customers I think, but our growth marketing person, Camila, swore by you.
+[00:18] Daniel: We love smaller and faster. Tell me about Medina Clinics.
+[00:25] Lucía: We're 12 dental clinics across CDMX, Monterrey, and Guadalajara. Founded 2019. We sell B2B services to corporate wellness programs — companies buy preventive-care packages for their employees. That's our growth lever.
+[01:00] Daniel: And the GTM motion for the corporate side — how does that work today?
+[01:08] Lucía: I do most of it personally honestly. We have one BDR who books meetings and I pitch the HR director or the wellness lead at companies with 200+ employees in our cities. We close maybe one in eight pitches.
+[01:35] Daniel: What's the typical reason you lose the other seven?
+[01:42] Lucía: 'We need to think about it' and then silence. The HR person likes us, can't sell it to their CFO. Our package is around 80,000 pesos per month for a 500-person company, plus utilization fees. The HR director never has the data to defend that to finance.
+[02:30] Daniel: So same pattern as B2B SaaS — the buyer can't sell internally.
+[02:38] Lucía: Exactly the same. Camila told me you had a way to solve this.
+[02:50] Daniel: We do. After a pitch call, you click one button and an agent generates a personalized microsite for that prospect. The HR director gets their tab with the wellness program details. The CFO — who you've never met — gets their tab with the ROI math: absenteeism reduction, healthcare premium savings, retention impact, calculated on the prospect's own headcount and salary base.
+[04:00] Lucía: That last part — calculated on their own headcount — would change my close rate dramatically. Right now my pitch deck has a slide that says "industry average X% absenteeism reduction." Nobody cares about industry averages.
+[04:30] Daniel: Right. The room uses your prospect's actual employee count, which Camila enriches from public sources, plus an editable assumption for average salary. Their CFO can change inputs and watch the model.
+[05:00] Lucía: Lo necesito. Honestly. How much?
+[05:15] Daniel: Our smallest tier — for teams under 5 reps — is $1,200 a month, billed monthly so you can stop any time. If we don't move your win rate inside 90 days, you cancel.
+[05:40] Lucía: Roberto is my CFO and he'll ask: what's the actual lift you've seen with similar-sized clinics?
+[05:55] Daniel: Honest answer — you'd be our first dental customer. Most of our customers are B2B SaaS. We have data showing 12-18% lift in stakeholder engagement leading to ~3 pts win rate improvement, but I can't pretend that transfers exactly to your motion.
+[06:30] Lucía: I appreciate the honesty. Most vendors would tell me they have ten dental customers and 50% lift.
+[06:45] Daniel: We could structure the first 60 days as half-price as a partnership — we get a dental case study, you get a discount. That way Roberto sees the experiment, not a commitment.
+[07:15] Lucía: That works. Send me a one-pager I can show Roberto tomorrow.
+[07:25] Daniel: Better than a one-pager — let me build you an actual Aftercall room as your prospect would see it. Use your real data (headcount, salaries, our ROI assumptions) and you can show Roberto what your prospects would experience. Two birds.
+[07:55] Lucía: That's clever. Yes please.
+[08:10] Daniel: Cool. Need a couple things from you: company name to use as the "demo prospect" (real or fictional), and any specific objections Roberto historically asks about new vendors.
+[08:35] Lucía: Use Grupo Lala — they're a real prospect I've been chasing. Roberto's big objection is always "what happens if the vendor disappears" — data lock-in.
+[09:00] Daniel: Got it. I'll address that on the IT/data tab — our export is standard JSON, your data is portable, and we have a 30-day grace period after cancellation.
+[09:25] Lucía: Perfecto. When do I see it?
+[09:35] Daniel: Tomorrow morning. I'll text you the link.
+[09:45] Lucía: Gracias Daniel.
+
+[END CALL]
+
+POST-CALL NOTES (Daniel):
+  - Champion: Lucía Medina, founder/CEO, sole decision-maker but answers to CFO
+  - Stakeholders: Roberto Cano (CFO, objection: data lock-in), Camila (BDR, mentioned us)
+  - Deal size: $1,200/mo Starter tier, possibly half-price 60-day partnership
+  - Pain: HR contacts can't sell to their own CFOs
+  - Stack: not yet relevant
+  - Unique angle: B2B services to corporate wellness, not SaaS
+  - Demo prospect to use in deal room: Grupo Lala
+  - Specific request: address data lock-in on IT tab
+  - Next: deliver Aftercall room by tomorrow AM

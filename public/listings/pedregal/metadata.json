@@ -1,0 +1,17 @@
+{
+  "fixtureId": "pedregal",
+  "label": "Pedregal (CDMX) · casa 320m² · Pulppo luxury",
+  "generatedAt": "2026-05-23T21:20:10.736Z",
+  "imagen": {
+    "model": "imagen-4.0-generate-001",
+    "prompt": "Editorial real-estate photograph of the exterior of a luxury family home in El Pedregal de San Ángel, Mexico City. Volcanic stone façade, modernist architecture with clean horizontal lines, mature lush garden with palms and bougainvillea, late afternoon golden hour, deep architectural shadows, 320 square meters, four bedrooms, two-story home, manicured lawn, stone path to entrance. No people, no cars. Professional aspirational listing photography. 16:9 aspect ratio."
+  },
+  "veo": {
+    "model": "veo-3.0-fast-generate-001",
+    "durationSeconds": 4,
+    "prompt": "Slow cinematic dolly approach toward the entrance of a modernist volcanic-stone home in El Pedregal, Mexico City. Camera floats forward at hip height through a mature garden, palm fronds and bougainvillea moving subtly in the breeze. Late afternoon golden hour light rakes across the stone façade. Aspirational, calm, no people. Editorial real-estate tour aesthetic."
+  },
+  "timing": {
+    "veoS": 32.9
+  }
+}

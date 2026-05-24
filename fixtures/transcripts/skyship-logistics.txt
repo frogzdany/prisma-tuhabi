@@ -1,0 +1,53 @@
+DISCOVERY CALL — SKYSHIP LOGISTICS × AFTERCALL
+Date: 2026-05-19 · 2:00 PM CT · 31 min
+Participants:
+  - Tomás Vega — VP of Sales, Skyship Logistics
+  - Aisha Khan (mentioned) — Head of Sales Enablement
+  - Rafael Ortiz (mentioned) — Director of Procurement
+  - Daniel Reyes — Account Executive, Aftercall
+
+[00:00] Tomás: Daniel, hi. Thanks for the patience — back-to-back QBR week.
+[00:09] Daniel: No worries. How did the QBR land?
+[00:14] Tomás: Brutal. We're 22% behind plan and the board pulled forecast accuracy as a top-three priority. Which is part of why I took this call.
+[00:35] Daniel: Tell me more about what's driving the gap.
+[00:42] Tomás: Skyship is a freight-tech platform — we sell into mid-market shippers and 3PLs. Average ACV $120K, sales cycle 5-8 months because we have to integrate with their TMS. The problem is half our enterprise deals stall at the same place: after the third call, when our champion starts socializing the project to their CFO and IT. We lose 6 weeks of momentum.
+[01:30] Daniel: Six weeks is a long silence. What's the typical loss reason on those?
+[01:38] Tomás: 'No decision' more than anything. Or 'wrong time.' Translation: nobody internally pushed it through.
+[02:00] Daniel: Right — the champion couldn't sell it for you.
+[02:10] Tomás: Exactly. We give them a beautiful deck and a 90-page security questionnaire response and we expect them to win an internal political battle on our behalf. It's insane when you say it out loud.
+[02:35] Daniel: How does your team currently support the champion through that phase?
+[02:42] Tomás: Honestly, we don't. We follow up weekly with "any updates?" emails and pray. Aisha — my head of enablement — built a battlecard library nobody uses because reps can't find the right card at the right moment.
+[03:20] Daniel: Are deals usually multi-threaded by the time they hit that phase?
+[03:28] Tomás: Should be, often aren't. AEs say they multi-thread but in practice it's one champion plus a token meeting with IT toward the end.
+[03:50] Daniel: Okay. Let me show you our angle. After the discovery call, your AE clicks one button. An agent reads the transcript, pulls deal context from your CRM, and generates a personalized microsite for the prospect. Each stakeholder on their buying committee gets a tab built for them — CFO sees ROI in Skyship's customers' actual freight volumes, IT sees architecture and integration patterns, procurement sees the redline-ready MSA.
+[05:00] Tomás: Hold on — you're saying the AI writes the CFO page automatically?
+[05:08] Daniel: Yes. From the discovery transcript, plus public financial data on the prospect, plus your standard product context. The AE reviews before sending, but they're editing a draft not writing from scratch.
+[05:30] Tomás: Quality of the writing matters a lot for us. We're selling to logistics CFOs and they have BS detectors.
+[05:42] Daniel: Agreed. The agent is grounded in your discovery transcript so the language matches what they said on the call — "you mentioned your peak-season capacity issues" — not generic. And there's always human review.
+[06:15] Tomás: What about the IT side? Our prospects' IT teams ask very specific questions about EDI, API rate limits, and their TMS integration.
+[06:30] Daniel: The IT tab pulls from your standard integration docs — you give us a library once, the agent picks the relevant sections per deal based on what the prospect mentioned. So if your champion said they're on MercuryGate, the IT tab leads with the MercuryGate integration story.
+[07:10] Tomás: Okay. The other thing — Rafael, our director of procurement, will need to see this. He's been burned by AI tools that turned out to be hard to procure (no SOC 2, weird data residency, etc.).
+[07:35] Daniel: SOC 2 Type II, ISO 27001 in flight Q3. Data residency per-customer; us-east-1 default, EU available. Standard MSA + DPA. Rafael's tab in our deal rooms typically gets a one-pager with security posture, the MSA, and the DPA pre-attached.
+[08:20] Tomás: Pricing?
+[08:25] Daniel: For Skyship's size — call it 40 AEs on the GTM side — our Scale tier is $84K/yr. Volume discount available for multi-year. Payback is usually 1 saved deal at your ACV.
+[09:00] Tomás: Ballpark feels reasonable. What's a pilot look like?
+[09:10] Daniel: 30 days, paid, on 8-10 named accounts. Joint success metrics defined upfront — usually deal-room engagement rate and stage-to-stage conversion vs. a control cohort.
+[09:45] Tomás: Aisha will be the day-one operator on our side. Can she be part of the next call?
+[09:55] Daniel: Absolutely, she should be. Want me to set it up for next Tuesday?
+[10:05] Tomás: Yeah, send a calendar invite. Also include the SOC 2 report and your standard MSA so I can pre-flight with Rafael.
+[10:25] Daniel: Got it. Let me do one better — I'll send you an Aftercall room built for Skyship based on this call. You can see what your prospects would experience, and Aisha and Rafael will each have a tab built for them with the materials they care about.
+[11:00] Tomás: Perfect. That's the right way to pitch a deal-room tool — show, don't tell.
+[11:15] Daniel: Exactly. Look out for it tomorrow morning. Thanks Tomás.
+[11:25] Tomás: Thanks Daniel.
+
+[END CALL]
+
+POST-CALL NOTES (Daniel):
+  - Champion: Tomás Vega, VP Sales, urgency from board on forecast accuracy
+  - Stakeholders: Aisha Khan (Enablement, day-1 operator), Rafael Ortiz (Procurement)
+  - Stack: not specified — ask in follow-up
+  - Average ACV: $120K, 5-8 mo sales cycle, TMS integration heavy
+  - Pain: 6-week silence post-call, no champion enablement
+  - Deal size for Skyship: $84K ARR Scale tier
+  - Pilot: 30 days, 8-10 accounts
+  - Next: Tuesday meeting with Aisha

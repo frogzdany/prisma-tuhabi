@@ -1,0 +1,17 @@
+{
+  "fixtureId": "oaxaca",
+  "label": "Oaxaca de Juárez (OAX) · casita 60m² · Nurture",
+  "generatedAt": "2026-05-23T21:23:32.673Z",
+  "imagen": {
+    "model": "imagen-4.0-generate-001",
+    "prompt": "Editorial real-estate photograph of the exterior of a small charming traditional house in Oaxaca de Juárez. Painted exterior walls in warm earthy yellow with white trim, traditional barrel-tile roof, small front patio with potted plants and bougainvillea, narrow cobblestone street, late afternoon warm golden light, mountainous southern Mexico backdrop visible. 60 square meters, two bedrooms, single story. Charming, warm, authentic. No people, no cars. 16:9 aspect ratio."
+  },
+  "veo": {
+    "model": "veo-3.0-fast-generate-001",
+    "durationSeconds": 4,
+    "prompt": "Slow handheld walking shot approaching the front door of a small traditional yellow-painted Oaxacan house. Camera moves forward gently along a cobblestone street, bougainvillea blossoms swaying in the breeze, warm late afternoon light. Intimate, atmospheric, authentic. No people. Editorial real-estate tour aesthetic."
+  },
+  "timing": {
+    "veoS": 33
+  }
+}

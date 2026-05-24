@@ -1,0 +1,104 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Atmospheric background glows — only in dark mode, only on Prisma surface. */
+body {
+  background-image:
+    radial-gradient(1200px 600px at 20% -10%, rgba(94, 234, 212, 0.045), transparent 60%),
+    radial-gradient(900px 500px at 90% 10%, rgba(167, 139, 250, 0.04), transparent 60%);
+  background-attachment: fixed;
+}
+
+/* Material Symbols Rounded base class. Variable font axes: FILL, wght, GRAD, opsz. */
+.msr {
+  font-family: "Material Symbols Rounded";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 1;
+  letter-spacing: normal;
+  display: inline-block;
+  white-space: nowrap;
+  direction: ltr;
+  -webkit-font-feature-settings: "liga";
+  font-feature-settings: "liga";
+  -webkit-font-smoothing: antialiased;
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 20;
+  user-select: none;
+  vertical-align: middle;
+}
+
+.msr.fill {
+  font-variation-settings: "FILL" 1, "wght" 500, "GRAD" 0, "opsz" 20;
+}
+
+/* Designed scrollbars. */
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: var(--chakra-colors-border-strong, #2a3754);
+  border-radius: 10px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: #364462;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+/* Spin keyframe used by status indicators. */
+@keyframes prisma-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.prisma-spin {
+  animation: prisma-spin 1s linear infinite;
+}
+
+/* Pulse dot — agent-in-live indicator. */
+@keyframes prisma-pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(94, 234, 212, 0.55);
+  }
+  70% {
+    box-shadow: 0 0 0 8px rgba(94, 234, 212, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(94, 234, 212, 0);
+  }
+}
+
+.prisma-pulse {
+  animation: prisma-pulse 1.8s ease-out infinite;
+}
+
+/* ───── React Flow theme overrides ──────────────────────────────
+   React Flow ships with `.react-flow__node { color: #222 }` baked into its
+   stylesheet, which fights our dark theme. Force the inherited node text
+   color to our light fg so every child Text reads correctly.            */
+.react-flow__node {
+  color: var(--chakra-colors-ink-50, #e6eaf2) !important;
+  --xy-node-color: var(--chakra-colors-ink-50, #e6eaf2);
+  --xy-node-color-default: var(--chakra-colors-ink-50, #e6eaf2);
+}

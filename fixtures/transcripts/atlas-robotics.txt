@@ -1,0 +1,59 @@
+DISCOVERY CALL — ATLAS ROBOTICS × AFTERCALL
+Date: 2026-05-21 · 10:30 AM PT · 38 min
+Participants:
+  - Maria Hernández — Head of RevOps, Atlas Robotics
+  - Carlos Mendoza (mentioned, not present) — CFO, Atlas Robotics
+  - Priya Sharma (mentioned, not present) — Director of InfoSec, Atlas Robotics
+  - Daniel Reyes — Account Executive, Aftercall
+
+[00:00] Daniel: Hey Maria, thanks for making time. I know your week is packed with the close push for Q2.
+[00:08] Maria: Yeah, no kidding. We're four deals away from making the number and three of them keep slipping. That's actually why I wanted to talk.
+[00:25] Daniel: Tell me what's slipping looking like for you right now.
+[00:32] Maria: So Atlas is mostly a mid-market motion — average deal is around 90K ACV, 4-6 month sales cycle, multi-stakeholder. The thing that's killing us is the gap between first call and procurement. We do a great discovery, the AE pitches our PoC offer, the prospect's champion is sold — and then it disappears for 6-8 weeks while they "socialize internally."
+[01:15] Daniel: When you say it disappears, what's actually happening?
+[01:22] Maria: They share our deck with their CFO, their CFO asks questions we never get to see, and by the time it comes back to us the deal has lost momentum. Sometimes the champion changes roles. Last quarter we lost a 180K deal to BluePrism because their champion took a new job and the new person had a different vendor relationship.
+[02:05] Daniel: That's painful. Do you have any visibility into what happens once the champion forwards the deck?
+[02:14] Maria: Zero. We track email opens with Outreach but that's it. We have no idea if the CFO even saw it.
+[02:30] Daniel: Got it. So if I'm hearing this right — your biggest mid-funnel risk is that once you hand the pitch to the champion, you lose all signal until the deal slips or closes. And the champion themselves doesn't have ammo to sell internally.
+[02:55] Maria: Exactly. We give them a 30-slide deck and expect them to be us in a meeting we're not in.
+[03:10] Daniel: Right. Let me show you what we do. Aftercall builds a personalized microsite per deal — not a static doc, an actual web page with stakeholder-specific tabs. So your champion lands on a page with their name on it. Their CFO gets a tab built for the CFO with the ROI math in their company's actual numbers. Their IT lead gets architecture + security.
+[04:20] Maria: Okay, who builds those pages? My AEs don't have time for this.
+[04:28] Daniel: That's the punchline — Claude does. After your AE clicks one button in Salesforce, an agent reads the discovery call transcript, pulls the company data from Clay, and writes each stakeholder page automatically. The AE just reviews and ships.
+[05:00] Maria: From a transcript? We use Gong for recording. Would it pull from there?
+[05:08] Daniel: Yes, Gong integration is one-click. Same for Fireflies. The AE doesn't have to summarize anything.
+[05:25] Maria: What about CRM data — we're on HubSpot Enterprise.
+[05:32] Daniel: HubSpot is supported. Deal + contacts + company properties all flow in. You install our OAuth app, it's scoped read-only by default.
+[06:00] Maria: I have to be honest — my biggest concern is going to be Carlos. He's our CFO, he hates SaaS sprawl, and his question will be ROI math. What does our procurement story look like with you?
+[06:20] Daniel: Sure. Mid-market customers like Atlas usually land on our Growth tier — $48K ARR, billed annually. Most see payback in under 3 months from a single saved deal at the average ACV.
+[07:00] Maria: Carlos will want to see that modeled with our actual numbers, not benchmarks. Last vendor walked in with "industry average" and got laughed out of the room.
+[07:15] Daniel: Totally. That's why our deal rooms include a live ROI calculator — pre-populated with Atlas' public financials. Carlos can change any input and watch the model recompute. We're not pitching at him; we're handing him a tool.
+[07:55] Maria: Okay that actually addresses the Carlos problem nicely. The other big rock is going to be Priya — InfoSec director. We just went through a SOC 2 fire drill with a different tool that turned out to not be SOC 2 compliant.
+[08:25] Daniel: We're SOC 2 Type II as of January 2026. ISO 27001 audit is scheduled for Q3 2026. All data stays in the region you choose — us-east-1 by default, EU available on request. Magic links for buyer-side stakeholders so Priya doesn't have to issue accounts.
+[09:10] Maria: Good. Send me the SOC 2 report when you can, I'll route it to her.
+[09:20] Daniel: I'll include it in the deal room itself so Priya gets it on her tab when she lands.
+[09:32] Maria: Wait — so I literally just forward one link and Priya gets the security stuff, Carlos gets the ROI math, and I get the action plan?
+[09:50] Daniel: That's the pitch. And on our side, we know when each of them opens what. So if Carlos changes a number in the ROI calc, you get a Slack ping. You walk into your next call with him knowing exactly what he's questioning.
+[10:30] Maria: That's actually... yeah. That solves the silence problem.
+[10:45] Daniel: One more thing — the seller's voice. Each room has a 60-second voice intro. Your AE records once, our agent generates a personalized intro per deal addressing the champion by name. Champion lands on the page and your AE says "Hi Maria, thanks for the call Friday." It's a small thing but it changes the temperature of the page from "deck I have to forward" to "personal note from someone I know."
+[11:30] Maria: That's nice. We've tried Loom videos but reps hate recording them.
+[11:40] Daniel: This is one recording, then auto-personalized forever.
+[12:00] Maria: Okay. What does an evaluation look like for us?
+[12:08] Daniel: Two weeks of paid pilot. We pick 5 deals you'd want to instrument. We measure: time-to-stakeholder-engagement, ROI calc interactions per deal, and win rate on the cohort vs. a matched control. If the pilot doesn't move the numbers, you walk.
+[12:55] Maria: I like that. Sales cycle for an annual contract on your side?
+[13:05] Daniel: For Atlas' size, usually 4-6 weeks from this call. Pilot, security review with Priya, ROI sign-off with Carlos, paper.
+[13:30] Maria: Let me put together the internal pitch. Can you send me what we discussed today plus the SOC 2 stuff plus the ROI model? I want to send it to Carlos and Priya before Thursday.
+[14:00] Daniel: I'll do you one better. Let me send you an actual Aftercall room built for Atlas based on this call. Carlos and Priya will each land on their own tab. You can show them the experience instead of forwarding three PDFs.
+[14:20] Maria: That would be exactly right.
+[14:30] Daniel: Cool. Expect the link by tomorrow morning. Thanks Maria.
+[14:38] Maria: Thanks Daniel. Talk soon.
+
+[END CALL]
+
+POST-CALL NOTES (Daniel):
+  - Champion: Maria, RevOps, technical, ROI-driven
+  - Required reviewers: Carlos (CFO, financial-conservative), Priya (InfoSec, just got burned)
+  - Stack: HubSpot Enterprise, Gong, Outreach
+  - Deal size: ~$48K ARR Growth tier
+  - Atlas FY24 reference: $48M revenue, 220 headcount, ~30 sellers
+  - Pilot proposal: 5 deals, 2 weeks, measurable win-rate uplift
+  - Next step: deliver Aftercall room by Friday 10am

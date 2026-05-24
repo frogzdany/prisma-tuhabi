@@ -1,0 +1,17 @@
+{
+  "fixtureId": "ecatepec",
+  "label": "Ecatepec (EDOMEX) · casa 90m² · Pulppo value",
+  "generatedAt": "2026-05-23T21:22:58.232Z",
+  "imagen": {
+    "model": "imagen-4.0-generate-001",
+    "prompt": "Editorial real-estate photograph of the exterior of a modest two-story single-family house in Ecatepec, Estado de México. Painted concrete walls in warm cream and terracotta colors, small front yard with potted plants, simple wrought-iron gate, dense middle-class residential street with similar houses, parked cars visible in the distance, realistic mid-day Mexican light. Authentic and honest, no people, no exaggeration, no glamorization. Documentary real-estate photography style. 16:9 aspect ratio."
+  },
+  "veo": {
+    "model": "veo-3.0-fast-generate-001",
+    "durationSeconds": 4,
+    "prompt": "Gentle camera pan across the front of a modest two-story house in a residential street of Ecatepec, Estado de México. Camera moves left to right at standing height, revealing the cream-painted concrete façade and a small front yard. Mid-day Mexican sun overhead, soft shadows, no people. Authentic and honest, documentary tone, no glamorization."
+  },
+  "timing": {
+    "veoS": 32.6
+  }
+}
