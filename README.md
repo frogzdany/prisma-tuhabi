@@ -2,6 +2,26 @@
 
 WhatsApp triage demo for Tuhabi. Routes a property seller to iBuyer, Pulppo, or nurture in about 30 seconds based on the first message they send, then sends back the recommended route and a fee breakdown as a voice note.
 
+## How it looks
+
+### Triage in progress
+
+![Triage running mid agent chain](docs/Flow.png)
+
+The seller picks one of the four message clouds. The particle visualizer at the top morphs into the shape of the tool that is currently running (here, the balance scale for `Compara opciones`). Each of the nine tool cards on the right lights its bubble green as the step completes. The WhatsApp mockup on the left shows the incoming message exactly as the seller sent it.
+
+### Triage completed
+
+![Triage done with green check and decision card](docs/Done.png)
+
+When the agent finishes, the visualizer settles on a green check stroke and the status pill switches to the chosen route (`RUTA IBUYER` here). All nine tool bubbles are filled in. The WhatsApp mockup now contains the agent reply, a playable voice note, and the AI generated property tour. The decision card slides into view below.
+
+### Decision and seller options
+
+![Three fee scenario cards plus tour video](docs/summary.png)
+
+The decision panel shows the route, the net amount the seller takes home, and a confidence score. Below it are three side by side scenario cards (iBuyer, Pulppo asesor, Nurture), each with the seller's net, fee percentage, gross, time to close, and a one line tradeoff. The recommended card is highlighted. The advanced details collapsible holds the AI generated listing tour, the map, and any matched Pulppo brokers.
+
 ## Quick start
 
 Requirements: Node 22 or newer, npm.
