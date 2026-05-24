@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://prisma-tuhabi.vercel.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fprisma-tuhabi.vercel.app&up_message=live&down_message=down&label=demo&style=flat-square" alt="Live demo"></a>
+  <a href="https://www.youtube.com/watch?v=P-qeOS_6s8s"><img src="https://img.shields.io/badge/YouTube-watch_60s_demo-FF0000?logo=youtube&logoColor=white&style=flat-square" alt="Watch the 60 second demo on YouTube"></a>
   <img src="https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs&logoColor=white&style=flat-square" alt="Next.js 16">
   <img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React 19">
@@ -26,6 +27,20 @@
 
 <p align="center">
   <a href="https://prisma-tuhabi.vercel.app"><strong>Open the live demo</strong></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.youtube.com/watch?v=P-qeOS_6s8s"><strong>Watch the 60 second demo</strong></a>
+</p>
+
+## Watch the demo
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=P-qeOS_6s8s">
+    <img src="https://img.youtube.com/vi/P-qeOS_6s8s/maxresdefault.jpg" alt="Prisma demo on YouTube" width="640" />
+  </a>
+</p>
+
+<p align="center">
+  Sixty seconds, end to end. Click an Ecatepec WhatsApp, watch nine tools run, get a recommended route with transparent fees.
 </p>
 
 ## How it looks
